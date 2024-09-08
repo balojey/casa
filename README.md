@@ -2,8 +2,6 @@
 
 [Live app](https://ava-sui.streamlit.app/)
 
-[Project Writeup](https://peaceful-sleep-735.notion.site/Ava-Empowering-SUI-MOVE-Developers-An-AI-Chat-App-Leveraging-Atlas-MongoDB-1223f4d8a27d48dd81ca281b328a1282?pvs=4)
-
 **Casa: A Prompt-Based Home Rent Analysis Tool for Nigeria**
 
 Casa is an innovative tool designed to assist residents of Nigeria in analyzing home rental prices. This prompt-based application enables families and individuals to compare rental prices across all 36 states and various areas within the country, helping them make informed decisions about where to live. By providing comprehensive insights into the rental market, Casa simplifies the process of evaluating residential options and promotes more effective decision-making for potential renters.
