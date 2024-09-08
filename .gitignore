@@ -46,9 +46,5 @@ coverage.xml
 # pgdata
 pgdata/
 
-# python wheels
-server/numpy-*
-server/python_dateutil-*
-server/pytz-*
-server/six-*
-server/pandas-*
+# streamlit
+.streamlit/secrets.toml
