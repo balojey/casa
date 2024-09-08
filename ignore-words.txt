@@ -1,3 +1,0 @@
-# ignore-words.txt
-selectin
-NotIn
