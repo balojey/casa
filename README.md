@@ -11,10 +11,10 @@ Casa is an innovative tool designed to assist residents of Nigeria in analyzing 
 Casa is the italian word for "home".
 
 ## Demo
-![alt text](assets/casa-1.png "Casa demo 1")
-![alt text](assets/casa-2.png "Casa demo 2")
-![alt text](assets/casa-3.png "Casa demo 2")
-![alt text](assets/casa-4.png "Casa demo 2")
+![alt text](assets/casa_1.png "Casa demo 1")
+![alt text](assets/casa_2.png "Casa demo 2")
+![alt text](assets/casa_3.png "Casa demo 2")
+![alt text](assets/casa_4.png "Casa demo 2")
 
 ## Technologies
 
