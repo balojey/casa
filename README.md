@@ -1,6 +1,6 @@
 # CASA
 
-[Live app](https://ava-sui.streamlit.app/)
+[Live app](https://casa-ng.streamlit.app/)
 
 **Casa: A Prompt-Based Home Rent Analysis Tool for Nigeria**
 
