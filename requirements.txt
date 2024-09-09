@@ -31,7 +31,7 @@ langchain-google-genai==1.0.10
 langsmith==0.1.116
 matplotlib==3.9.2
 narwhals==1.6.3
-numpy==2.1.1
+numpy==1.26.4
 openai==1.44.0
 orjson==3.10.7
 pandas==1.5.3
